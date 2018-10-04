@@ -1,0 +1,351 @@
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\SchemeWpf.exe.config
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\SchemeWpf.exe
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\SchemeWpf.pdb
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\CommonServiceLocator.dll
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\System.Windows.Interactivity.dll
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf.csprojResolveAssemblyReference.cache
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\App.g.cs
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf_MarkupCompile.cache
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf_MarkupCompile.lref
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf.g.resources
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf.Properties.Resources.resources
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf.csproj.GenerateResource.cache
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf.csproj.CoreCompileInputs.cache
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf.csproj.CopyComplete
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf.exe
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\SchemeWpf.pdb
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\Autofac.dll
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\Autofac.xml
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\LoginView.g.cs
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\MainView.g.cs
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Resources\ButtonStyle.baml
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Resources\ViewsDataTemplates.baml
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\LoginView.baml
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\MainView.baml
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\LoadingView.g.cs
+c:\users\zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\LoadingView.baml
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\ProjectsListView.g.cs
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\ProjectsListView.baml
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Resources\ScrollStyle.baml
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\BoardView.g.cs
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\BoardView.baml
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\ControlzEx.dll
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GongSolutions.Wpf.DragDrop.dll
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\ControlzEx.pdb
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\GongSolutions.Wpf.DragDrop.xml
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\SchemeWpf.exe.config
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\SchemeWpf.exe
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\SchemeWpf.pdb
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf.csprojAssemblyReference.cache
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Resources\ButtonStyle.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\LoadingView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\MainView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\App.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf_MarkupCompile.cache
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf_MarkupCompile.lref
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Resources\ScrollStyle.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Resources\ViewsDataTemplates.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\LoadingView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\MainView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf.g.resources
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf.Properties.Resources.resources
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf.csproj.GenerateResource.cache
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf.csproj.CoreCompileInputs.cache
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf.csproj.CopyComplete
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf.exe
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\SchemeWpf.pdb
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\NotificationsView.baml
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\MainNavigationView.g.cs
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\NotificationsView.g.cs
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\ProjectConfigurationView.g.cs
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\MainNavigationView.baml
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\ProjectConfigurationView.baml
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf.csprojAssemblyReference.cache
+C:\Projects\ShemeWpf\obj\Debug\Resources\ButtonStyle.baml
+C:\Projects\ShemeWpf\obj\Debug\Views\NotificationsView.baml
+C:\Projects\ShemeWpf\obj\Debug\Views\BoardView.g.cs
+C:\Projects\ShemeWpf\obj\Debug\Views\LoadingView.g.cs
+C:\Projects\ShemeWpf\obj\Debug\Views\LoginView.g.cs
+C:\Projects\ShemeWpf\obj\Debug\Views\MainNavigationView.g.cs
+C:\Projects\ShemeWpf\obj\Debug\Views\MainView.g.cs
+C:\Projects\ShemeWpf\obj\Debug\Views\NotificationsView.g.cs
+C:\Projects\ShemeWpf\obj\Debug\Views\ProjectConfigurationView.g.cs
+C:\Projects\ShemeWpf\obj\Debug\Views\ProjectsListView.g.cs
+C:\Projects\ShemeWpf\obj\Debug\App.g.cs
+C:\Projects\ShemeWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf_MarkupCompile.cache
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf_MarkupCompile.lref
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf.exe
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf.pdb
+C:\Projects\ShemeWpf\bin\Debug\SchemeWpf.exe.config
+C:\Projects\ShemeWpf\bin\Debug\SchemeWpf.exe
+C:\Projects\ShemeWpf\bin\Debug\SchemeWpf.pdb
+C:\Projects\ShemeWpf\bin\Debug\System.Windows.Interactivity.dll
+C:\Projects\ShemeWpf\bin\Debug\Autofac.xml
+C:\Projects\ShemeWpf\bin\Debug\ControlzEx.pdb
+C:\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Projects\ShemeWpf\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Projects\ShemeWpf\bin\Debug\GongSolutions.Wpf.DragDrop.xml
+C:\Projects\ShemeWpf\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Projects\ShemeWpf\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Projects\ShemeWpf\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Projects\ShemeWpf\obj\Debug\Resources\ScrollStyle.baml
+C:\Projects\ShemeWpf\obj\Debug\Resources\ViewsDataTemplates.baml
+C:\Projects\ShemeWpf\obj\Debug\Views\BoardView.baml
+C:\Projects\ShemeWpf\obj\Debug\Views\LoadingView.baml
+C:\Projects\ShemeWpf\obj\Debug\Views\LoginView.baml
+C:\Projects\ShemeWpf\obj\Debug\Views\MainNavigationView.baml
+C:\Projects\ShemeWpf\obj\Debug\Views\MainView.baml
+C:\Projects\ShemeWpf\obj\Debug\Views\ProjectConfigurationView.baml
+C:\Projects\ShemeWpf\obj\Debug\Views\ProjectsListView.baml
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf.g.resources
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf.Properties.Resources.resources
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf.csproj.GenerateResource.cache
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf.csproj.CoreCompileInputs.cache
+C:\Projects\ShemeWpf\obj\Debug\SchemeWpf.csproj.CopyComplete
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\ShemeWpf\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\RestSharp.dll
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\bin\Debug\RestSharp.xml
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\SignUpView.g.cs
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\SignUpView.baml
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\RegistrationConfirmCodeView.g.cs
+C:\Users\Zahid\source\repos\SchemeWpf\SchemeWpf\obj\Debug\Views\RegistrationConfirmCodeView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\SchemeWpf.exe.config
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\SchemeWpf.exe
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\SchemeWpf.pdb
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\Autofac.xml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\ControlzEx.pdb
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\GongSolutions.Wpf.DragDrop.xml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\RestSharp.xml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.csprojAssemblyReference.cache
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\NotificationsView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\BoardView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\LoadingView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\LoginView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\MainNavigationView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\MainView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\NotificationsView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\ProjectConfigurationView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\ProjectsListView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\RegistrationConfirmCodeView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\SignUpView.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\App.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf_MarkupCompile.cache
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf_MarkupCompile.lref
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Resources\ButtonStyle.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Resources\ScrollStyle.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Resources\ViewsDataTemplates.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\BoardView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\LoadingView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\LoginView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\MainNavigationView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\MainView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\ProjectConfigurationView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\ProjectsListView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\RegistrationConfirmCodeView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\Views\SignUpView.baml
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.g.resources
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.Properties.Resources.resources
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.csproj.GenerateResource.cache
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.csproj.CoreCompileInputs.cache
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.csproj.CopyComplete
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.exe
+C:\Users\Zahid\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.pdb
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\SchemeWpf.exe.config
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\SchemeWpf.exe
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\SchemeWpf.pdb
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\System.Windows.Interactivity.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\de\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\en\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\es\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\it\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\LoadingView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\MainView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\App.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf_MarkupCompile.cache
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf_MarkupCompile.lref
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Resources\ButtonStyle.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Resources\ScrollStyle.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Resources\ViewsDataTemplates.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\LoadingView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\MainView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.g.resources
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.Properties.Resources.resources
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.csproj.GenerateResource.cache
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.csproj.CoreCompileInputs.cache
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.csproj.CopyComplete
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.exe
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.pdb
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\SchemeWpf.csprojAssemblyReference.cache
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\MessageBoxView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\MessageBoxView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Resources\UpperWindow.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\BoardView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\BoardView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\NotificationsView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\EmailEnterView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\ForgotPasswordView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\LoginView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\MainNavigationView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\NotificationsView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\ProjectConfigurationView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\ProjectsListView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\RegistrationConfirmCodeView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\SignUpView.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\EmailEnterView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\ForgotPasswordView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\LoginView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\MainNavigationView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\ProjectConfigurationView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\InternalViews\ProjectsListView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\RegistrationConfirmCodeView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\ExternalViews\SignUpView.baml
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\MessageBoxWindow.g.cs
+C:\Users\Zahid\source\repos\ShemeWpf\obj\Debug\Views\MessageBoxWindow.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Resources\UpperWindow.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\NotificationsView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\BoardView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\EmailEnterView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\ForgotPasswordView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\LoginView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\MainNavigationView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\MessageBoxView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\NotificationsView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\ProjectConfigurationView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\ProjectsListView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\RegistrationConfirmCodeView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\SignUpView.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\MessageBoxWindow.g.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\BoardView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\EmailEnterView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\ForgotPasswordView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\LoginView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\MainNavigationView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\MessageBoxView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\ProjectConfigurationView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\InternalViews\ProjectsListView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\RegistrationConfirmCodeView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\ExternalViews\SignUpView.baml
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\Views\MessageBoxWindow.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\SchemeWpf.exe.config
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\SchemeWpf.exe
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\SchemeWpf.pdb
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf.csprojAssemblyReference.cache
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Resources\UpperWindow.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\NotificationsView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\BoardView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\EmailEnterView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\ForgotPasswordView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\LoadingView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\LoginView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\MainNavigationView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\MainView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\MessageBoxView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\NotificationsView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\ProjectConfigurationView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\ProjectsListView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\RegistrationConfirmCodeView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\SignUpView.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\MessageBoxWindow.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\App.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf_MarkupCompile.cache
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf_MarkupCompile.lref
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Resources\ButtonStyle.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Resources\ScrollStyle.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Resources\ViewsDataTemplates.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\BoardView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\EmailEnterView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\ForgotPasswordView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\LoadingView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\LoginView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\MainNavigationView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\MainView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\MessageBoxView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\ProjectConfigurationView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\InternalViews\ProjectsListView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\RegistrationConfirmCodeView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\ExternalViews\SignUpView.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\Views\MessageBoxWindow.baml
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf.g.resources
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf.Properties.Resources.resources
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf.csproj.GenerateResource.cache
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf.csproj.CopyComplete
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf.exe
+C:\Users\Samir\Desktop\Zahid\2\ShemeWpf-master\obj\Debug\SchemeWpf.pdb

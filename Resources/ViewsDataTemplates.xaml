@@ -1,0 +1,56 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:vm="clr-namespace:SchemeWpf.ViewModels"
+                    xmlns:i="clr-namespace:SchemeWpf.Views.InternalViews"
+                    xmlns:e="clr-namespace:SchemeWpf.Views.ExternalViews"
+                    xmlns:v="clr-namespace:SchemeWpf.Views">
+
+    <DataTemplate DataType="{x:Type vm:MainNavigationViewModel}">
+        <i:MainNavigationView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:ProjectConfigurationViewModel}">
+        <i:ProjectConfigurationView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:LoginViewModel}">
+        <e:LoginView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:LoadingViewModel}">
+        <v:LoadingView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:MessageBoxViewModel}">
+        <v:MessageBoxView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:ProjectsListViewModel}">
+        <i:ProjectsListView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:BoardViewModel}">
+        <i:BoardView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:NotificationsViewModel}">
+        <i:NotificationsView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:SignUpViewModel}">
+        <e:SignUpView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:RegistrationConfirmCodeViewModel}">
+        <e:RegistrationConfirmCodeView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:ForgotPasswordViewModel}">
+        <e:ForgotPasswordView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:EmailEnterViewModel}">
+        <e:EmailEnterView/>
+    </DataTemplate>
+
+</ResourceDictionary>

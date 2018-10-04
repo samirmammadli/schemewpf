@@ -1,0 +1,20 @@
+﻿SchemeWpf
+
+
+winexe
+C#
+.cs
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\obj\Debug\
+SchemeWpf
+none
+false
+DEBUG;TRACE
+\\ITSTEP\students redirection$\Abbb_nu96\Documents\Projects\ShemeWpf\App.xaml
+18466744355
+
+621231029333
+77-1474151561
+Resources\ButtonStyle.xaml;Resources\ScrollStyle.xaml;Resources\UpperWindow.xaml;Resources\ViewsDataTemplates.xaml;Views\InternalViews\BoardView.xaml;Views\ExternalViews\EmailEnterView.xaml;Views\ExternalViews\ForgotPasswordView.xaml;Views\LoadingView.xaml;Views\ExternalViews\LoginView.xaml;Views\InternalViews\MainNavigationView.xaml;Views\MainView.xaml;Views\MessageBoxView.xaml;Views\InternalViews\NotificationsView.xaml;Views\InternalViews\ProjectConfigurationView.xaml;Views\InternalViews\ProjectsListView.xaml;Views\ExternalViews\RegistrationConfirmCodeView.xaml;Views\ExternalViews\SignUpView.xaml;Views\MessageBoxWindow.xaml;
+
+True
+
